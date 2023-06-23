@@ -3,6 +3,7 @@
 - Sistema web simples com tela de cadastro de usuário, tela de login, tela de edição de dados e tela de boas-vindas.
 - Dados são validados no front e backend e são salvos em uma base de dados.
 - Segurança de páginas aplicada.
+- Design de UI com uso do framework bootstrap.
 
 ## Linguagens, frameworks, ferramentas e sistemas utilizados
 - [PHP 8.2.7 OOP Syntax](https://www.php.net/manual/en/language.oop5.php)
